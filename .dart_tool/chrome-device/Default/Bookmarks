@@ -1,0 +1,47 @@
+{
+   "checksum": "fbe0441b48bd49f136218bd1370d2125",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13380562139260403",
+            "date_last_used": "0",
+            "guid": "7a3d30aa-a1aa-4622-80aa-7f99d367bc85",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "E-Learning UMSIDA: Log in to the site",
+            "type": "url",
+            "url": "https://elearning.umsida.ac.id/login/index.php"
+         } ],
+         "date_added": "13405745301578229",
+         "date_last_used": "0",
+         "date_modified": "13380562139260403",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13405745301578229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405745301578229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

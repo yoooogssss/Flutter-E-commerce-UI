@@ -1,0 +1,26 @@
+2025-10-24 02:08:21.947: [INFO] VisibilityChanged: 0
+2025-10-24 02:08:22.052: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.057: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.061: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.065: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.068: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.072: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.075: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.079: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.082: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.087: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.092: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.107: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2025-10-24 02:08:22.108: [INFO] OnDoneLoading sync enabled: 0
+2025-10-24 02:08:22.122: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-24 02:08:22.778: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-10-24 02:08:22.787: [INFO] Primary account changed.
+2025-10-24 02:08:22.787: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2025-10-24 02:08:22.801: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-10-24 02:08:23.522: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-10-24 02:08:28.223: [INFO] VisibilityChanged: 1
+2025-10-24 02:08:28.470: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-24 02:08:29.506: [INFO] Sync initialization duration: 5471ms
+2025-10-24 02:20:33.976: [INFO] VisibilityChanged: 0
+2025-10-25 04:28:00.962: [INFO] OnDoneLoading sync enabled: 0
+2025-10-25 04:28:58.868: [INFO] VisibilityChanged: 0

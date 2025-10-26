@@ -1,0 +1,54 @@
+{
+   "checksum": "21ef4734bf40c40f37fe2846ab5e1849",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13380562139260403",
+            "date_last_used": "0",
+            "guid": "7a3d30aa-a1aa-4622-80aa-7f99d367bc85",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "E-Learning UMSIDA: Log in to the site",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elearning.umsida.ac.id/login/index.php",
+            "visit_count": 1
+         } ],
+         "date_added": "13405745301578229",
+         "date_last_used": "0",
+         "date_modified": "13380562139260403",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13405745301578229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405745301578229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCLLw8NeZAQAAEgAqGFEyUnpTaHBGa2tHaWJlbXBFYmROcEE9PUgDoAYHEqwBCAYSpwEKHEFqWFhPakdGNno2elY2RVlqck9mQ0NQdm55RT0SJDdhM2QzMGFhLWExYWEtNDYyMi04MGFhLTdmOTlkMzY3YmM4NRgAIAAoADCv0b2b9zI4grDDt8MyQIKww7fDMkocbjNjTnNtY0JRSDhvMEp1MGNnakpWdElEdDlrPVoeIhxJUzg3eWZ4MzNnUDhHdjl4K1pVazBaaU90b289ZbIKmKDCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlYmFkNmNkOS0xMzc4LTU1YmItYWM4Yi1lNmQ5NzZlODZjMTMYACAAKAAwo/+x5MQwOKiEsuTEMECohLLkxDBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYjU3Njc0MjAtZjFkZS01YjY5LWJmZjctYWIxY2QzMWIxYzE1GAAgACgAMKL/seTEMDiZhLLkxDBAmYSy5MQwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDU2MjJkMzA5LTQyZWMtNTkzMi04NmJmLTljMjk3YjU1OTEyZBgAIAAoADCo/7HkxDA4xIWy5MQwQMSFsuTEMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
